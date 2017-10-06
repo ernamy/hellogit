@@ -1,1 +1,5 @@
-Hello Uols
+
+<?php
+
+echo "Hello";
+?>
